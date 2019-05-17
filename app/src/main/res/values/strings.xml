@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="tv1">C346 Android programming</string>
+    <string name="tv3">C349 Ipad programming</string>
+    <string name="pop">Module Code: C346</string>
+    <string name="pop1">Module Name: Andriod programming</string>
+    <string name="pop3">Academic Year :2018</string>
+    <string name="pop4">Semester : 1</string>
+    <string name="pop5">Module Credit: 4</string>
+    <string name="pop6">Venue W66M</string>
+
+    <string name="dog">C349 Ipad Programming</string>
+    <string name="dog1">Module Name: Ipad programming</string>
+    <string name="dog2">Academic Year : 2018</string>
+    <string name="dog4">Semester : 1</string>
+    <string name="dog5">Module Credit: 4</string>
+    <string name="dog6">Venue W66M</string>
+    <string name="title_activity_activity3">activity3</string>
+
+
+</resources>
